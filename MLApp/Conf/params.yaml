@@ -1,0 +1,8 @@
+Input_Data:
+  UniqueID: "memberid"
+  Features: "data"
+
+Featurepreperation:
+  temporalfeature: "Long_emp_length"
+  cat_to_num: "emp_length"
+  missingval: "emp_title"
